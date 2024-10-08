@@ -1,0 +1,11 @@
+org/iceo/apilayer/http/models/enums/Currency.class
+org/iceo/apilayer/utils/Context.class
+org/iceo/apilayer/utils/ScenarioContext.class
+org/iceo/apilayer/http/models/responses/GetErrorResponse.class
+org/iceo/apilayer/helpers/GeneralHelper.class
+org/iceo/apilayer/http/models/responses/ErrorDetails.class
+org/iceo/apilayer/di/HttpModule.class
+org/iceo/apilayer/http/models/responses/NoTokenErrorResponse.class
+org/iceo/apilayer/http/models/responses/GetLatestOutput.class
+org/iceo/apilayer/http/models/requests/GetLatestInput.class
+org/iceo/apilayer/di/PropsModule.class

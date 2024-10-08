@@ -1,0 +1,11 @@
+/home/iceo/projects/apilayer-fixer-latest/apilayer-fixer-latest/src/main/java/org/iceo/apilayer/http/models/requests/GetLatestInput.java
+/home/iceo/projects/apilayer-fixer-latest/apilayer-fixer-latest/src/main/java/org/iceo/apilayer/di/PropsModule.java
+/home/iceo/projects/apilayer-fixer-latest/apilayer-fixer-latest/src/main/java/org/iceo/apilayer/http/models/responses/NoTokenErrorResponse.java
+/home/iceo/projects/apilayer-fixer-latest/apilayer-fixer-latest/src/main/java/org/iceo/apilayer/http/models/responses/GetLatestOutput.java
+/home/iceo/projects/apilayer-fixer-latest/apilayer-fixer-latest/src/main/java/org/iceo/apilayer/helpers/GeneralHelper.java
+/home/iceo/projects/apilayer-fixer-latest/apilayer-fixer-latest/src/main/java/org/iceo/apilayer/utils/Context.java
+/home/iceo/projects/apilayer-fixer-latest/apilayer-fixer-latest/src/main/java/org/iceo/apilayer/di/HttpModule.java
+/home/iceo/projects/apilayer-fixer-latest/apilayer-fixer-latest/src/main/java/org/iceo/apilayer/utils/ScenarioContext.java
+/home/iceo/projects/apilayer-fixer-latest/apilayer-fixer-latest/src/main/java/org/iceo/apilayer/http/models/responses/GetErrorResponse.java
+/home/iceo/projects/apilayer-fixer-latest/apilayer-fixer-latest/src/main/java/org/iceo/apilayer/http/models/enums/Currency.java
+/home/iceo/projects/apilayer-fixer-latest/apilayer-fixer-latest/src/main/java/org/iceo/apilayer/http/models/responses/ErrorDetails.java
