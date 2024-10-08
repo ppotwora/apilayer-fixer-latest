@@ -10,6 +10,7 @@ The primary focus of testing is on the `latest` endpoint of the Fixer API. The f
 
 1. **200 - Success**: Verify that the `latest` endpoint returns the correct exchange rates for different currencies.
 example:
+```json
    {
    "success": true,
    "timestamp": 1728219456,
@@ -18,9 +19,10 @@ example:
    "rates": {
    "USD": 1.098172
    }
-   
-2. **200 - Bad Request**: Verify that the API returns a `200 Bad Request` when invalid parameters are passed.
-example:   
+```   
+3. **200 - Bad Request**: Verify that the API returns a `200 Bad Request` when invalid parameters are passed.
+example:
+```json   
   {
    "success": false,
    "error": {
@@ -28,13 +30,14 @@ example:
    "type": "invalid_currency_codes",
    "info": "You have provided one or more invalid Currency Codes. [Required format: currencies=EUR,USD,GBP,...]"
    }
-
-3. **401 - Unauthorized**: Test the response when an API key is missing or invalid.
+```
+5. **401 - Unauthorized**: Test the response when an API key is missing or invalid.
 example:
+```json
   {
    "message":"No API key found in request"
   }
-
+```
 ### Tools Used
 
 - **Java 21**
